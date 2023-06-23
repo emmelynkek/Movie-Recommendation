@@ -1,0 +1,8 @@
+numpy
+pandas
+requests
+tdqm
+plotnine
+kmodes
+seaborn
+squarify
