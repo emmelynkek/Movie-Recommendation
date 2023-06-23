@@ -1,4 +1,4 @@
-# SC1015 DSAI Project
+# DSAI Project Movie Recommendation system
 
 ## About
 
